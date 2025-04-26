@@ -47,5 +47,5 @@ will be added soon..
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/Shubham-Kumar4285/VoyageX.git
+git clone https://github.com/saumyajhamb/VoyageX
 cd VoyagaX
