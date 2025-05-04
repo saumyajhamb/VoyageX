@@ -47,7 +47,6 @@ Here are some glimpses of what **VoyageX** looks like:
 ![ss7](https://github.com/user-attachments/assets/c4f2f5fe-c05a-4648-9ade-2216e8cdf3d7)
 ![ss8](https://github.com/user-attachments/assets/15adc7b2-b27a-4130-81a2-0d2605726525)
 ![ss9](https://github.com/user-attachments/assets/0847347d-dadd-4d2c-a9a5-44cab20ae5b2)
-![ss10](https://github.com/user-attachments/assets/618a265a-818d-4daf-8c90-f63dd8997c46)
 
 
 ---
