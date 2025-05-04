@@ -38,7 +38,9 @@ Welcome to **VoyageX** – the ultimate AI-powered trip planner app designed to 
 
 Here are some glimpses of what **VoyageX** looks like:
 
-will be added soon..
+![ss1](https://github.com/user-attachments/assets/c36ddcb5-9d45-41c9-980b-dc22b26f8973)
+
+
 
 ---
 
